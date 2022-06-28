@@ -36,8 +36,6 @@
 
 + Git reset --hard ID da versão
 
-
-
 ### Links utéis para uso
 
 [Documentação da Linguagem Markdown](https://www.markdownguide.org/)
